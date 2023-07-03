@@ -9,3 +9,6 @@ Feito por:
 Video com a Prévia sobre o Tema:
   - [Reconhecimento Facial em Risco](https://youtu.be/B_FHYxX5KbA)
   - [Apresentação utilizada](https://docs.google.com/presentation/d/1-N27UrFtbKMgUryNtCJmzJuAVPuQGNPea0_kqn5h-6E/edit#slide=id.p)
+
+Dados:
+  Os dados utilizados são do [Dataset LFW](http://vis-www.cs.umass.edu/lfw/), O Download pode ser feito [aqui](http://vis-www.cs.umass.edu/lfw/lfw-deepfunneled.tgz)
